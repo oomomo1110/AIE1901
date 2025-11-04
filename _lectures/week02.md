@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-01-16T14:00:00+08:00
-title: Introduction to Large Language Models - Prompt Engineering
+date: 2025-09-08T14:00:00+08:00
+title: Introduction to Agent-Based Modeling (ABM) I
 # tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/2.Coursematerials/Course_Slides/week2/Lecture2_Zhanzhan.pptx
+    - url: /static_files/2.Coursematerials/Course_Slides/week2/Lecture2.pdf
       name: slides
 ---
 **Suggested Readings:**
