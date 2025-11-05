@@ -1,15 +1,15 @@
 ---
 type: lecture
-date: 2025-02-27T14:00:00+08:00
-title: Large Language Models API Usage and Coding
+date: 2025-10-10T13:30:00+08:00
+title: Giant Catalytic Effect of Altruists in Schelling's Segregation Model
 # tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     # - url: /static_files/presentations/lec.zip
     #   name: notes
-    - url: /static_files/2.Coursematerials/Course_Slides/week5/6_example_codes_for_LLM_API_usages.zip
-      name: codes
-    - url: /static_files/2.Coursematerials/Course_Slides/week5/Lecture5_Zhanzhan.pptx
+    # - url: /static_files/2.Coursematerials/Course_Slides/week5/6_example_codes_for_LLM_API_usages.zip
+    #   name: codes
+    - url: /static_files/2.Coursematerials/Course_Slides/week5/Lecture3.pdf
       name: slides
 ---
 **Suggested Readings:**

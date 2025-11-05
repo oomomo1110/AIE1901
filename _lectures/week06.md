@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-03-06T14:00:00+08:00
-title: Large Language Model Agents
+date: 2025-10-17T13:30:00+08:00
+title: Giant Catalytic Effect of Altruists in Schelling's Segregation Model
 # tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/2.Coursematerials/Course_Slides/week6/Lecture6_Zhanzhan.pptx
+    - url: /static_files/2.Coursematerials/Course_Slides/week6/Lecture3.pdf
       name: slides
 ---
 **Suggested Readings:**

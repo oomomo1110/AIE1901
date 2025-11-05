@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-09-15T14:00:00+08:00
-title: Giant Catalytic Effect of Altruists in Schelling's Segregation Model
+date: 2025-09-18T13:30:00+08:00
+title: Introduction to Agent-Based Modeling (ABM) I
 # tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/2.Coursematerials/Course_Slides/week3/Lecture3.pdf
+    - url: /static_files/2.Coursematerials/Course_Slides/week3/Lecture2.pdf
       name: slides
 ---
 **Suggested Readings:**
