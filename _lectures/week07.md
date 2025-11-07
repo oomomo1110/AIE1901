@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-03-13T14:00:00+08:00
-title: LLM-based Multi-agent Systems
+date: 2025-10-24T13:50:00+08:00
+title: Why Using LLMs for Social Simulations?
 # tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
@@ -9,7 +9,7 @@ links:
     #   name: notes
     # - url: /static_files/presentations/code.zip
     #   name: codes
-    - url: /static_files/2.Coursematerials/Course_Slides/week7/Lecture7_Zhanzhan.pptx
+    - url: /static_files/2.Coursematerials/Course_Slides/week7/Lecture4.pdf
       name: slides
 ---
 **Suggested Readings:**
