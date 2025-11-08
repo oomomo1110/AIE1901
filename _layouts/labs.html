@@ -6,7 +6,7 @@ layout: page
 
 <ul id="archive">
   {% comment %} Collect pages under Labs/ or labs/ (be tolerant to case) {% endcomment %}
-  {% assign lab_pages = site.pages | where_exp: 'p', 'p.path contains "Labs/" or p.path contains "labs/"' %}
+  {% assign lab_pages = site.pages | where_exp: 'p', 'p.path contains "Labs/" or p.path contains "labs/" or p.path contains "_labs/"' %}
   {% assign lab_pages = lab_pages | sort: 'date' | reverse %}
   {% for lab in lab_pages %}
   <li class="archiveposturl" style="background: transparent">
