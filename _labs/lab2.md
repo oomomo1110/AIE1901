@@ -13,5 +13,6 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1]({{site.baseurl}}/static_files/2.Coursematerials/Reading_Materials/Competition between collective and individual dynamics.pdf)
-<!-- - [Readings 2]({{site.baseurl}}/static_files/2.Coursematerials/Reading_Materials/01.16-User-Driven_Value_Alignment-_Understanding_Users’_Perceptions_and_Strategies_for_Addressing_Biased_and_Discriminatory_Statements_in_AI_Companions.pdf) -->
+- [Readings 1]({{site.baseurl}}/static_files/2.Coursematerials/Reading_Materials/Competition%20between%20collective%20and%20individual%20dynamics.pdf)
+<!-- 
+- [Readings 2]({{site.baseurl}}/static_files/2.Coursematerials/Reading_Materials/01.16-User-Driven_Value_Alignment-_Understanding_Users’_Perceptions_and_Strategies_for_Addressing_Biased_and_Discriminatory_Statements_in_AI_Companions.pdf) -->
